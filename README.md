@@ -7,6 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Devops.**
+-    I'm Looking for help to crack **GSOC**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
