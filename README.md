@@ -7,11 +7,11 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Devops.**
--    I'm Looking for help to crack **GSOC**
+-    I'm Looking for help on How to prepare myself for **GSOC 2022**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **mansimishra510@gmail.com**
 
