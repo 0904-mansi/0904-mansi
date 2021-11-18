@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Devops.**
+- 🔭 I’m currently working on **Devops**
 -    I'm Looking for help on How to prepare myself for **GSOC 2022**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -14,6 +14,13 @@
 - 👯 I’m looking for collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **mansimishra510@gmail.com**
+
+## Experiences and volunteering
+
+-  **GirlScript** Management head at Girlscript Durg.
+-  **Angelhack** Angelhack Student Ambassador 2021.
+- **Cloud Native and Computing Foundation Durg** Core Team Lead.
+- **Campus Ambassador** Campus Ambassador at Girlscript Winter of Contributing.
 
 
 ## 🚀 Languages and Tools:
