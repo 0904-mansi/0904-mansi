@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 
 <!-- <div align="center" width="50">
@@ -20,7 +20,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 <i>Happy Coding!</i> :)
 
 <!-- <h1 align="center"> <img src="https://i.insider.com/5ee7c2893f737024027c1d77?width=700" width="700px" height ="400px"></h1> -->
-<h3 align="center"><b>Hey 👋 ! I am Mansi Mishra Pursuing my Second Year of B.Tech In Computer science and Engineering. I am a full stack web Developer. An Open Source Enthusiast. looking forward to learn new things.</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra Pursuing my Second Year of B.Tech In Computer science and Engineering. I am a full stack web Developer. An Open Source Enthusiast. looking forward to learn new things.</b></h3>
 
 
 ## 🙋‍♂️ About Me
