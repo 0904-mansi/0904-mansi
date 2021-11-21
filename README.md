@@ -1,26 +1,49 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+</div>
+
+<!-- <div align="center" width="50">
+
+<img src="hi.gif" alt="Welcome!" width="200">
+
+</div> -->
+
+<div align="center">
+
+ <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better! <br>
+Ask me anything on <a href="https://www.linkedin.com/in/mansi-mishra-5435441b8/"><b>LinkedIn</b></a><br>
+or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> :)
+
 <!-- <h1 align="center"> <img src="https://i.insider.com/5ee7c2893f737024027c1d77?width=700" width="700px" height ="400px"></h1> -->
 <h3 align="center"><b>Hey 👋 ! I am Mansi Mishra Pursuing my Second Year of B.Tech In Computer science and Engineering. I am a full stack web Developer. An Open Source Enthusiast. looking forward to learn new things.</b></h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Devops**
--    I'm Looking for help on How to prepare myself for **GSOC 2022**
+🔭 I’m currently working on **Devops**
+    
+🤝  I'm Looking for help on How to prepare myself for **GSOC 2022**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking for collaborate on **OpenSource Projects**
+👯 I’m looking for collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mansimishra510@gmail.com**
+📫 How to reach me **mansimishra510@gmail.com**
 
 ## Experiences and volunteering
 
--  **GirlScript** Management head at Girlscript Durg.
--  **Angelhack** Angelhack Student Ambassador 2021.
-- **Cloud Native and Computing Foundation Durg** Core Team Lead.
-- **Campus Ambassador** Campus Ambassador at Girlscript Winter of Contributing.
+  **GirlScript** Management head at Girlscript Durg.
+    
+  **Angelhack** Angelhack Student Ambassador 2021.
+    
+ **Cloud Native and Computing Foundation Durg** Core Team Lead.
+    
+ **Campus Ambassador** Campus Ambassador at Girlscript Winter of Contributing.
 
 
 ## 🚀 Languages and Tools:
