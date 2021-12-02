@@ -1,10 +1,13 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<!--   I'm [Mansi!](https://www.linkedin.com/in/mansi-mishra-5435441b8/)</h2> -->
+</div>
+
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> --><p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hello" /> </p>
 
 
 
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</div>
+
 
 <!-- <div align="center" width="50">
 
