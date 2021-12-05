@@ -41,6 +41,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 📫 How to reach me **mansimishra510@gmail.com**
 
 ## 👩🏻‍🎓 Experiences and volunteering
+ 
+  **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
 
   **GirlScript** Management head at Girlscript Durg.
     
