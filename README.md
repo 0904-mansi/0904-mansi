@@ -76,6 +76,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
     <a href= "https://jquery.com/"><img src = "https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
     <a href = "https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <a href = "https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/>
+     <a href = "https://www.kubernets.io/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+     <a href = "https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_498747252440-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP+~+General_google+cloud+platform-KWID_43700023274811560-aud-970366092687:kwd-296644789888&userloc_1007794-network_g&utm_term=KW_google%20cloud%20platform&ds_rl=1264446&gclid=CjwKCAiAiKuOBhBQEiwAId_sK-CdLSgbEXIOOtUKbbju1p9EJGWeZZ4-OzJbQoANO2b-2TIS4idmvRoCD4wQAvD_BwE&gclsrc=aw.ds"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
     
 </p>
 
