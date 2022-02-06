@@ -29,11 +29,11 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on **Devops**
+🔭 I’m currently working on **CI/CD Pipelines**
     
 🤝  I'm Looking for help on How to prepare myself for **GSOC 2022**
 
-🌱 I’m currently learning **Data Structures and Algorithms.**
+🌱 I’m currently learning **Algorithms**
 
 👯 I’m looking for collaborate on **OpenSource Projects**
 
@@ -41,15 +41,17 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 ## 👩🏻‍🎓 Experiences and volunteering
  
-  **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
+ **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
+ 
+ Event Manager at **Codein Community.**
 
-  **GirlScript** Management head at Girlscript Durg.
+ Management head at **Girlscript Durg.**
+  
+ Angelhack Student Ambassador 2021.
     
-  **Angelhack** Angelhack Student Ambassador 2021.
+ Core Team Lead **Cloud Native and Computing Foundation Durg** .
     
- **Cloud Native and Computing Foundation Durg** Core Team Lead.
-    
- **Campus Ambassador** Campus Ambassador at Girlscript Winter of Contributing.
+ Campus Ambassador at **Girlscript Winter of Contributing**.
 
 
 ## 🚀 Languages and Tools:
