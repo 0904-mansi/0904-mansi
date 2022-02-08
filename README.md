@@ -75,6 +75,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
     <a href="https://c.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href= "https://jquery.com/"><img src = "https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
+     <a href="https://www.jenkins.io/"><img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+   <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/>
     <a href = "https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <a href = "https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/>
      <a href = "https://www.kubernets.io/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
