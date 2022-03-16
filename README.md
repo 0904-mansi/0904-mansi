@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra Pursuing my Bachelor's In Computer Science and Engineering. I am a full stack web Developer. An Open Source Enthusiast. Currently Exploring Machine Learning field and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Sophomore at BIT Durg. I am an Open Source and DevOps Enthusiast. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
 
 
 
