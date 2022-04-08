@@ -31,11 +31,13 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on **CI/CD Pipelines**
+🔭 I’m currently working on **Skill Enhancement**
     
-🤝  I'm Looking for help on How to prepare myself for **GSOC 2022**
+🤝  I'm Looking for help on How to write best proposal for **GSOC 2022**
 
-🌱 I’m currently learning **Algorithms**
+🌱 I’m currently learning **Algorithms** 
+ 
+ 👩🏻‍🎓 I'm looking for an **Internship** to get hands-on experience.
 
 👯 I’m looking for collaborate on **OpenSource Projects**
 
