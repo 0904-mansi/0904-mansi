@@ -33,8 +33,6 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 🔭 I’m currently working on **Skill Enhancement**
     
-🤝  I'm Looking for help on How to write best proposal for **GSOC 2022**
-
 🌱 I’m currently learning **Algorithms** 
  
  👩🏻‍🎓 I'm looking for an **Internship** to get hands-on experience.
@@ -49,11 +47,11 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
  
  Event Manager at **Codein Community.**
 
- Management head at **Girlscript Durg.**
+ Management head at **GirlScript Durg.**
   
  Angelhack Student Ambassador 2021.
     
- Core Team Lead **Cloud Native and Computing Foundation Durg** .
+ Core Team Lead at **Cloud Native and Computing Foundation Durg** .
     
  Campus Ambassador at **Girlscript Winter of Contributing**.
 
