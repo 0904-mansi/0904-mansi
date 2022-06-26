@@ -31,7 +31,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on **Skill Enhancement**
+🔭 I’m currently working on **Preparation for CT🥶**
     
 🌱 I’m currently learning **Algorithms** 
  
@@ -42,6 +42,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 📫 How to reach me **mansimishra510@gmail.com**
 
 ## 👩🏻‍🎓 Experiences and volunteering
+ 
+ **Microsoft** Engage Intern Mentee'22.
  
  **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
  
