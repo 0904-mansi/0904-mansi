@@ -35,7 +35,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
     
 🌱 I’m currently learning **Algorithms** 
  
- 👩🏻‍🎓 I'm looking for an **Internship** to get hands-on experience.
+ 👩🏻‍🎓 I'm looking for various **Opportunities.**
 
 👯 I’m looking for collaborate on **OpenSource Projects**
 
