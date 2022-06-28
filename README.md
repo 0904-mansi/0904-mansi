@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Sophomore at BIT Durg.I'm an Incoming SWE Intern'23 at Microsoft. I am an Open Source and DevOps Enthusiast. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Sophomore at BIT Durg. I'm a SWE Intern'23 at Microsoft. I am an Open Source and DevOps Enthusiast. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
 
 
 
