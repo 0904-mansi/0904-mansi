@@ -31,7 +31,6 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working on **Preparation for CT🥶**
     
 🌱 I’m currently learning **Algorithms** 
  
