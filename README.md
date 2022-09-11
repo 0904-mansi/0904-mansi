@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Sophomore at BIT Durg. I'm a SWE Intern'23 at Microsoft. I am an Open Source and DevOps Enthusiast. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Pre-final year studen at BIT Durg. I'm a SWE Intern'23 at Microsoft. I am AI/ML Enthusiast. Currently working on Skill Enhancement and looking forward to work on some machine learning projects. Happy to connect :)</b></h3>
 
 
 
@@ -36,7 +36,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
  
  👩🏻‍🎓 I'm looking for various **Opportunities and Coding Competition**
 
-👯 I’m looking for collaborate on **OpenSource Projects**
+👯 I’m looking for collaborate on **AI/ML related projects**
 
 📫 How to reach me **mansimishra510@gmail.com**
 
