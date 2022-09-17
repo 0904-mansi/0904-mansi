@@ -27,37 +27,39 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> :)
 
+</div>
+
 <!-- <h1 align="left"> <img src="https://i.insider.com/5ee7c2893f737024027c1d77?width=700" width="700px" height ="400px"></h1> -->
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
     
-🌱 I’m currently learning **Algorithms** 
+- 🌱 I’m currently learning **Algorithms** 
  
- 👩🏻‍🎓 I'm looking for various **Opportunities and Coding Competition**
+- 👩🏻‍🎓 I'm looking for various **Opportunities and Coding Competition**
 
-👯 I’m looking for collaborate on **AI/ML related projects**
+- 👯 I’m looking for collaborate on **AI/ML related projects**
 
-📫 How to reach me **mansimishra510@gmail.com**
+- 📫 How to reach me **mansimishra510@gmail.com**
 
-## 👩🏻‍🎓 Experiences and volunteering
+# 👩🏻‍🎓 Experiences and volunteering
  
- **Microsoft** Engage Intern Mentee'22.
+ - **Microsoft** Engage Intern Mentee'22.
  
- **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
+ - **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
  
- Event Manager at **Codein Community.**
+ - Event Manager at **Codein Community.**
 
- Management head at **GirlScript Durg.**
+ - Management head at **GirlScript Durg.**
   
- Angelhack Student Ambassador 2021.
+ - Angelhack Student Ambassador 2021.
     
- Core Team Lead at **Cloud Native and Computing Foundation Durg** .
+ - Core Team Lead at **Cloud Native and Computing Foundation Durg** .
     
- Campus Ambassador at **Girlscript Winter of Contributing**.
+ - Campus Ambassador at **Girlscript Winter of Contributing**.
 
 
-## 🚀 Languages and Tools:
+# 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -96,7 +98,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
     </a>
 </p>
 
-## 📊 My Github Stats
+# 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/0904-mansi/github-readme-stats"><img alt="Mansi Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0904-mansi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -116,7 +118,9 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 <br/>
 <br/>
 
-## Connect with me:
+<div align="center">
+
+# Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mansi-mishra-5435441b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -129,8 +133,10 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 </p>
 
-## ❤ Views and Followers
+# ❤ Views and Followers
 <a href="https://github.com/0904-mansi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=0904-mansi">
 </a>
+
+</div>
 <!-- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
