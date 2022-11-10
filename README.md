@@ -35,6 +35,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
     
 - 🌱 I’m currently learning **Algorithms** 
+
+- 👩🏻‍💻 I'm currently working for MLH Fellowship
  
 - 👩🏻‍🎓 I'm looking for various **Opportunities and Coding Competition**
 
