@@ -34,7 +34,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 # 🙋‍♂️ About Me
 
     
-- 🌱 I’m currently learning **.NET framework and C# ** 
+- 🌱 I’m currently learning **.NET framework and C#** 
 
 <!-- - 👩🏻‍💻 I'm currently working for MLH Fellowship -->
  
