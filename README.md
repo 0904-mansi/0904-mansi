@@ -34,19 +34,23 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 # 🙋‍♂️ About Me
 
     
-- 🌱 I’m currently learning **.NET framework and C#** 
+- 🌱 I’m currently learning **Machine learning** 
 
 <!-- - 👩🏻‍💻 I'm currently working for MLH Fellowship -->
  
-- 👩🏻‍🎓 I'm looking for various **Opportunities and Coding Competition**
+- 👩🏻‍🎓 I'm looking for various **SDE and Machine Learning Internships**
 
 - 👯 I’m looking for collaborate on **AI/ML related projects**
 
 - 📫 How to reach me **mansimishra510@gmail.com**
 
-# 👩🏻‍🎓 Experiences and volunteering
+# 👩🏻‍🎓 Work Experiences 
+ 
+ - **MLH Prep Fellow** for Fall batch 2022.
  
  - **Microsoft** Engage Intern Mentee'22.
+ 
+ # 👩🏻‍🏫 Volunteering Experiences
  
  - **Manager at Microsoft India Summit 2021** for Girlscript Chhattisgarh Regional Summit.
  
