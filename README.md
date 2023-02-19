@@ -34,7 +34,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 # 🙋‍♂️ About Me
 
     
-- 🌱 I’m currently learning **Machine learning** 
+- 🌱 I’m currently learning **Machine learning & Azure DevOps** 
 
 <!-- - 👩🏻‍💻 I'm currently working for MLH Fellowship -->
  
