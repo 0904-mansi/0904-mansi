@@ -1,3 +1,4 @@
+
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
@@ -114,13 +115,13 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
   <a href="https://github.com/0904-mansi/github-readme-stats"><img alt="Mansi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0904-mansi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+[![mansi09's GitHub | Languages Over Time](https://stats.quine.sh/mansi09/languages-over-time?theme=dark)](https://quine.sh) 
 
 <br/>
 <br/>
 
-<a href="https://github.com/0904-mansi/github-readme-activity-graph"><img alt="Mansi Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0904-mansi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github.com/0904-mansi/github-readme-activity-graph"><img alt="Mansi Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0904-mansi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ -->
 <br/>
 <br/>
 
