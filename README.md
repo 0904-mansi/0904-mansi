@@ -115,7 +115,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
   <a href="https://github.com/0904-mansi/github-readme-stats"><img alt="Mansi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0904-mansi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-[![mansi09's GitHub | Languages Over Time](https://stats.quine.sh/mansi09/languages-over-time?theme=dark)](https://quine.sh) 
+<!-- [![mansi09's GitHub | Languages Over Time](https://stats.quine.sh/mansi09/languages-over-time?theme=dark)](https://quine.sh)  -->
 
 <br/>
 <br/>
@@ -140,10 +140,10 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 </p>
 
-# ❤ Views and Followers
+<!-- # ❤ Views and Followers
 <a href="https://github.com/0904-mansi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=0904-mansi">
-</a>
+</a> -->
 
 </div>
 <!-- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
