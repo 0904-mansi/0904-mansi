@@ -46,6 +46,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 - 📫 How to reach me **mansimishra510@gmail.com**
 
 # 👩🏻‍🎓 Work Experiences 
+ - **Machine Learning Intern** at BharatIntern.
  
  - **MLH Prep Fellow** for Fall batch 2022.
  
