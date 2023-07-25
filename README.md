@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Pre-final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Skill Enhancement and looking forward to work on some machine learning projects. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Pre-final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
 
 
 
