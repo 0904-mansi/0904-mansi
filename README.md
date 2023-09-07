@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Pre-final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
 
 
 
@@ -46,6 +46,9 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 - 📫 How to reach me **mansimishra510@gmail.com**
 
 # 👩🏻‍🎓 Work Experiences 
+
+ - Software Engineer Summer Intern'23 at **Microsoft**
+   
  - **Machine Learning Intern** at BharatIntern.
  
  - **MLH Prep Fellow** for Fall batch 2022.
@@ -66,7 +69,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
     
  - Campus Ambassador at **Girlscript Winter of Contributing**.
 
-
+<!--
 # 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -99,7 +102,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
+<!--
 <p align="center">
     <a href="https://github.com/0904-mansi/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mansi Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0904-mansi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -122,10 +125,10 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 <br/>
 
 <!-- <a href="https://github.com/0904-mansi/github-readme-activity-graph"><img alt="Mansi Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0904-mansi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
+ 
 <br/>
 <br/>
-
+-->
 <div align="center">
 
 # Connect with me:
