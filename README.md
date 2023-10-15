@@ -32,20 +32,7 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 <!-- <h1 align="left"> <img src="https://i.insider.com/5ee7c2893f737024027c1d77?width=700" width="700px" height ="400px"></h1> -->
 
-# 🙋‍♂️ About Me
-
-    
-- 🌱 I’m currently learning **Machine learning & Azure DevOps** 
-
-<!-- - 👩🏻‍💻 I'm currently working for MLH Fellowship -->
- 
-- 👩🏻‍🎓 I'm looking for various **SDE and Machine Learning Internships**
-
-- 👯 I’m looking for collaborate on **AI/ML related projects**
-
-- 📫 How to reach me **mansimishra510@gmail.com**
-
-# 👩🏻‍🎓 Work Experiences 
+# 🙋‍♂️ About My Experiences
 
  - Software Engineer Summer Intern'23 at **Microsoft**
    
@@ -53,7 +40,17 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
  
  - **MLH Prep Fellow** for Fall batch 2022.
  
- - **Microsoft** Engage Intern Mentee'22.
+ - **Microsoft** Engage Intern Mentee'22.0
+
+# Open-Source Contributions
+
+-  Contributed to **MLH Fellowship** Open-source projects as an **MLH Prep Fellow**.
+  
+-  Maintained the docker-tools repository of the **Collabnix Community**.
+
+-  Fixed the typo on **Kubernetes'** official website.
+
+-  Contributed to tutorial for JavaScript variables from basics to intermediate with Examples to **GWOC** Program.
  
  # 👩🏻‍🏫 Volunteering Experiences
  
