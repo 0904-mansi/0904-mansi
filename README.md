@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Skill Enhancement and looking forward to learn new things. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Data Engineering Field. Happy to connect :)</b></h3>
 
 
 
@@ -34,10 +34,12 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 # 🙋‍♂️ About My Experiences
 
+ - Data Engineer Trainee at **NucleusTeq**
+
+ - Data Scientist Associate at **Blackcoffer** 
+
  - Software Engineer Summer Intern'23 at **Microsoft**
-   
- - **Machine Learning Intern** at BharatIntern.
- 
+    
  - **MLH Prep Fellow** for Fall batch 2022.
  
  - **Microsoft** Engage Intern Mentee'22.0
