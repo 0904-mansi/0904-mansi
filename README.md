@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center"><b>  I am Mansi Mishra, Final year student at BIT Durg. I'm an SWE Intern'23 at Microsoft. Currently working on Data Engineering Field. Happy to connect :)</b></h3>
+<h3 align="center"><b>  I am Mansi Mishra, Software Engineer at NucleusTeq. I'm an SWE Intern'23 at Microsoft. Currently working on Data Engineering Field. Happy to connect :)</b></h3>
 
 
 
@@ -33,6 +33,8 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 <!-- <h1 align="left"> <img src="https://i.insider.com/5ee7c2893f737024027c1d77?width=700" width="700px" height ="400px"></h1> -->
 
 # 🙋‍♂️ About My Experiences
+
+ - Software Engineer at NucleusTeq 
 
  - Data Engineer Trainee at **NucleusTeq**
 
