@@ -137,7 +137,6 @@ or <a href="mailto:mansimishra510@gmail.com"><b>email</b></a> me.
 
 <a href = "https://www.linkedin.com/in/mansi-mishra-5435441b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MansiMi22804871"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/m_ansi_0904/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://stackoverflow.com/users/16567472/mansi-mishra?tab=profile"><img src="https://img.icons8.com/color/48/stackoverflow.png"/> 
 <a href = "https://leetcode.com/mansimishra510/" ><img  width="45" height="45" src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png">
 
